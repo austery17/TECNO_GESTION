@@ -1,0 +1,15 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+HELP.md
+
+# Base de datos local (H2)
+data/
+*.mv.db
+*.trace.db
